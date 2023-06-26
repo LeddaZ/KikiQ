@@ -130,3 +130,8 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+anykernel3/
+gcc32/
+gcc64/
+log.txt
